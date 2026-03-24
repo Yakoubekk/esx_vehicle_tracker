@@ -17,4 +17,4 @@ A high-performance, synchronized vehicle tracking system for FiveM. This script 
 2. Place the `car_tracker` folder into your `resources` directory.
 3. Add the following to your `server.cfg`:
    ```cfg
-   ensure car_tracker
+   ensure esx_vehicle_tracker
