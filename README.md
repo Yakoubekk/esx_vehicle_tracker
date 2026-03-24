@@ -1,6 +1,6 @@
 # 🛰️ Advanced Police Vehicle Tracker (ESX)
 
-A lightweight and highly optimized FiveM script that allows specific duty fractions (Police, GIBS, EMS) to track service vehicles in real-time on the map using blips.
+A lightweight and highly optimized FiveM script that allows specific duty fractions to track service vehicles in real-time on the map using blips.
 
 ## 🌟 Key Features
 - **Job-Locked Access:** Only players with authorized jobs (defined in config) can see the tracking blips.
