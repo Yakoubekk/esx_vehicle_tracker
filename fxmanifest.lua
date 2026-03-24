@@ -1,11 +1,14 @@
 fx_version 'cerulean'
 game 'gta5'
 
-description 'Police and GIBS Vehicle Tracker'
+shared_script 'config.lua'
 
 client_scripts {
-    'config.lua',
     'client.lua'
+}
+
+server_scripts {
+    'server.lua'
 }
 
 dependencies {
